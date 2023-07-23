@@ -1,0 +1,11 @@
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\bin\Debug\SHARIQCatering.exe
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\bin\Debug\SHARIQCatering.pdb
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\obj\x86\Debug\SHARIQCatering.Properties.Resources.resources
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\obj\x86\Debug\SHARIQCatering.csproj.GenerateResource.Cache
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\obj\x86\Debug\SHARIQCatering.exe
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\obj\x86\Debug\SHARIQCatering.pdb
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\obj\x86\Debug\SHARIQCatering.Form1.resources
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\obj\x86\Debug\SHARIQCatering.frmlogin.resources
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\obj\x86\Debug\SHARIQCatering.Customers.frmOrderEntry.resources
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\obj\x86\Debug\SHARIQCatering.Customers.frmcustpopup.resources
+L:\PROJECTS\RUNNING_PROJECTS\SHARIQCatering\SHARIQCatering\SHARIQCatering\obj\x86\Debug\SHARIQCatering.Products.frmprodpopup.resources
